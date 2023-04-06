@@ -1,0 +1,7 @@
+1. Tendrá que adivinar una palabra relacionada con PROGRAMACIÓN.
+2. Tendrá máximo 5 intentos para adivinar la palabra, que debe ingresar completa. Por ejemplo, ve un espacio de 7 letras (_ _ _ _ _ _ _) tendrá que ingresar una palabra de 7 letras para que sea analizada.
+3. Debe ser una palabra real.
+4. Las tildes cuentan como una letra distinta de la vocal sin tilde, asegúrese de ingresar la palabra con tilde en caso de que crea que posea.
+5. Ingrese las palabras en minúscula.
+5. Si no adivina la palabra en 5 intentos perderá cualquier punto ganado por esa palabra.
+6. Si después de los cinco intentos no adivina la palabra perderá la partida y tendrá la opción de adivinar otra palabra o cerrar el juego para ver la lista con los 10 mejores puntajes.

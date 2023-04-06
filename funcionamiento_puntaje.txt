@@ -1,0 +1,5 @@
+1. Ganará UN (1) punto por cada letra que esté en la palabra por adivinar pero que no se encuentre en posición correcta. 
+2. Ganará DOS (2) puntos por cada letra que esté en la palabra y que se encuentre en posición correcta. 
+3. Si adivina la palabra en UN (1) único intento recibe 4 puntos por cada letra que se encuentre en la palabra.
+4. Los puntajes que gane en cada intento se irán acumulando. Si adivina la palabra en el último intento tendrá 4 puntos por cada letra, más los puntos que haya ganado por los intentos anteriores.
+5. Si no adivina la palabra en los cinco intentos perderá todos los puntos acumulados por esa palabra y tendrá la opción de intentar adivinar otra palabra.
